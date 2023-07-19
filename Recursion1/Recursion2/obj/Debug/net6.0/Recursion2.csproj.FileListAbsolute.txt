@@ -1,0 +1,15 @@
+C:\Users\Coryb\Desktop\EstructuraDatos\Recursion1\Recursion2\bin\Debug\net6.0\Recursion2.exe
+C:\Users\Coryb\Desktop\EstructuraDatos\Recursion1\Recursion2\bin\Debug\net6.0\Recursion2.deps.json
+C:\Users\Coryb\Desktop\EstructuraDatos\Recursion1\Recursion2\bin\Debug\net6.0\Recursion2.runtimeconfig.json
+C:\Users\Coryb\Desktop\EstructuraDatos\Recursion1\Recursion2\bin\Debug\net6.0\Recursion2.dll
+C:\Users\Coryb\Desktop\EstructuraDatos\Recursion1\Recursion2\bin\Debug\net6.0\Recursion2.pdb
+C:\Users\Coryb\Desktop\EstructuraDatos\Recursion1\Recursion2\obj\Debug\net6.0\Recursion2.csproj.AssemblyReference.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\Recursion1\Recursion2\obj\Debug\net6.0\Recursion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coryb\Desktop\EstructuraDatos\Recursion1\Recursion2\obj\Debug\net6.0\Recursion2.AssemblyInfoInputs.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\Recursion1\Recursion2\obj\Debug\net6.0\Recursion2.AssemblyInfo.cs
+C:\Users\Coryb\Desktop\EstructuraDatos\Recursion1\Recursion2\obj\Debug\net6.0\Recursion2.csproj.CoreCompileInputs.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\Recursion1\Recursion2\obj\Debug\net6.0\Recursion2.dll
+C:\Users\Coryb\Desktop\EstructuraDatos\Recursion1\Recursion2\obj\Debug\net6.0\refint\Recursion2.dll
+C:\Users\Coryb\Desktop\EstructuraDatos\Recursion1\Recursion2\obj\Debug\net6.0\Recursion2.pdb
+C:\Users\Coryb\Desktop\EstructuraDatos\Recursion1\Recursion2\obj\Debug\net6.0\Recursion2.genruntimeconfig.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\Recursion1\Recursion2\obj\Debug\net6.0\ref\Recursion2.dll
