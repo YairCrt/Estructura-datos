@@ -1,0 +1,8 @@
+C:\Users\Coryb\Desktop\EstructuraDatos\Stack9\BalanceSimbolos10\bin\Debug\BalanceSimbolos10.exe.config
+C:\Users\Coryb\Desktop\EstructuraDatos\Stack9\BalanceSimbolos10\bin\Debug\BalanceSimbolos10.exe
+C:\Users\Coryb\Desktop\EstructuraDatos\Stack9\BalanceSimbolos10\bin\Debug\BalanceSimbolos10.pdb
+C:\Users\Coryb\Desktop\EstructuraDatos\Stack9\BalanceSimbolos10\obj\Debug\BalanceSimbolos10.csproj.AssemblyReference.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\Stack9\BalanceSimbolos10\obj\Debug\BalanceSimbolos10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\Stack9\BalanceSimbolos10\obj\Debug\BalanceSimbolos10.csproj.CoreCompileInputs.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\Stack9\BalanceSimbolos10\obj\Debug\BalanceSimbolos10.exe
+C:\Users\Coryb\Desktop\EstructuraDatos\Stack9\BalanceSimbolos10\obj\Debug\BalanceSimbolos10.pdb

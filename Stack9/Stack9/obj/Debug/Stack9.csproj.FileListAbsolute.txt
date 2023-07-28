@@ -1,0 +1,8 @@
+C:\Users\Coryb\Desktop\EstructuraDatos\Stack9\Stack9\bin\Debug\Stack9.exe.config
+C:\Users\Coryb\Desktop\EstructuraDatos\Stack9\Stack9\bin\Debug\Stack9.exe
+C:\Users\Coryb\Desktop\EstructuraDatos\Stack9\Stack9\bin\Debug\Stack9.pdb
+C:\Users\Coryb\Desktop\EstructuraDatos\Stack9\Stack9\obj\Debug\Stack9.csproj.AssemblyReference.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\Stack9\Stack9\obj\Debug\Stack9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\Stack9\Stack9\obj\Debug\Stack9.csproj.CoreCompileInputs.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\Stack9\Stack9\obj\Debug\Stack9.exe
+C:\Users\Coryb\Desktop\EstructuraDatos\Stack9\Stack9\obj\Debug\Stack9.pdb
