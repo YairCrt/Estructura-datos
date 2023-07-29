@@ -1,0 +1,8 @@
+C:\Users\Coryb\Desktop\EstructuraDatos\Queue11\Queue11\bin\Debug\Queue11.exe.config
+C:\Users\Coryb\Desktop\EstructuraDatos\Queue11\Queue11\bin\Debug\Queue11.exe
+C:\Users\Coryb\Desktop\EstructuraDatos\Queue11\Queue11\bin\Debug\Queue11.pdb
+C:\Users\Coryb\Desktop\EstructuraDatos\Queue11\Queue11\obj\Debug\Queue11.csproj.AssemblyReference.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\Queue11\Queue11\obj\Debug\Queue11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\Queue11\Queue11\obj\Debug\Queue11.csproj.CoreCompileInputs.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\Queue11\Queue11\obj\Debug\Queue11.exe
+C:\Users\Coryb\Desktop\EstructuraDatos\Queue11\Queue11\obj\Debug\Queue11.pdb
