@@ -1,0 +1,8 @@
+C:\Users\Coryb\Desktop\EstructuraDatos\ArbolGenerico\ArbolGenerico\bin\Debug\ArbolGenerico.exe.config
+C:\Users\Coryb\Desktop\EstructuraDatos\ArbolGenerico\ArbolGenerico\bin\Debug\ArbolGenerico.exe
+C:\Users\Coryb\Desktop\EstructuraDatos\ArbolGenerico\ArbolGenerico\bin\Debug\ArbolGenerico.pdb
+C:\Users\Coryb\Desktop\EstructuraDatos\ArbolGenerico\ArbolGenerico\obj\Debug\ArbolGenerico.csproj.AssemblyReference.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\ArbolGenerico\ArbolGenerico\obj\Debug\ArbolGenerico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\ArbolGenerico\ArbolGenerico\obj\Debug\ArbolGenerico.csproj.CoreCompileInputs.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\ArbolGenerico\ArbolGenerico\obj\Debug\ArbolGenerico.exe
+C:\Users\Coryb\Desktop\EstructuraDatos\ArbolGenerico\ArbolGenerico\obj\Debug\ArbolGenerico.pdb
