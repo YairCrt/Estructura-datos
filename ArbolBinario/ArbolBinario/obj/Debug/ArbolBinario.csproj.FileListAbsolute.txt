@@ -1,0 +1,8 @@
+C:\Users\Coryb\Desktop\EstructuraDatos\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe.config
+C:\Users\Coryb\Desktop\EstructuraDatos\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe
+C:\Users\Coryb\Desktop\EstructuraDatos\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.pdb
+C:\Users\Coryb\Desktop\EstructuraDatos\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csproj.AssemblyReference.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csproj.CoreCompileInputs.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.exe
+C:\Users\Coryb\Desktop\EstructuraDatos\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.pdb
