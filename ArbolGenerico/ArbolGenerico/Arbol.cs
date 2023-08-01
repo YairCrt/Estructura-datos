@@ -102,6 +102,71 @@ namespace ArbolGenerico
             }
 
         }
+        //Transversa PostOrder
+        public void TransversaPostO(Nodo pNodo)
+        {
+            if (pNodo == null)
+                return;
+
+            //Se procesa al Hijo
+            if (pNodo.Hijo != null)
+            {
+                i++;
+                TransversaPostO(pNodo.Hijo);
+                i--;
+            }
+
+            //Si tiene hermanos se procesan
+            if(pNodo.Hermano != null)
+            {
+                TransversaPostO(pNodo.Hermano);
+            }
+
+            //Luego se procesa el nodo Raiz
+            for(int n = 0; n < i; n++)
+            {
+                Console.Write(" ");
+            }
+            Console.WriteLine(pNodo.Dato);
+        }
+
+        //Buscar
+        public Nodo Buscar(string pDato, Nodo pNodo)
+        {
+            Nodo encontrado = null;
+
+            if (pNodo == null)
+                return encontrado;
+            
+            //CompareTo sirve para comparar cadenas,devuelve 0 cuando ambas cadenas sean iguales
+            if(pNodo.Dato.CompareTo(pDato) == 0)
+            {
+                encontrado = pNodo;
+                return encontrado;
+            }
+
+            //Luego se procesa al hijo para seguir buscando el nodo
+            if(pNodo.Hijo != null)
+            {
+                //Recursividad
+                encontrado = Buscar(pDato, pNodo.Hijo);
+                if(encontrado != null)
+                {
+                    return encontrado;
+                }
+            }
+
+            //Si hay hermanos se busca el nodo
+            if(pNodo.Hermano != null)
+            {
+                //Recursividad
+                encontrado = Buscar(pDato, pNodo.Hermano);
+                if (encontrado != null)
+                    return encontrado;
+            }
+
+            return encontrado;
+        }
 
     }
 }

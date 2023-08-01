@@ -38,6 +38,29 @@ namespace ArbolGenerico
             arbol.Insertar("n", n);
 
             arbol.TransversaPreO(raiz);
+            Console.WriteLine("----------------");
+            //arbol.TransversaPostO(raiz);
+            //Console.WriteLine("----------------");
+
+            Nodo encontrado = arbol.Buscar("z", raiz);
+            if (encontrado != null)
+                Console.WriteLine(encontrado.Dato);
+            else 
+                Console.WriteLine("No encontrado");
+
+            Console.WriteLine("----------------");
+
+            string donde = "";
+            string que = "";
+
+            Console.WriteLine("En donde deseas insertar: ");
+            donde = Console.ReadLine();
+            Console.WriteLine("Que deseas insertar: ");
+            que = Console.ReadLine();
+
+            encontrado = arbol.Buscar(donde, raiz);
+            arbol.Insertar(que, encontrado);
+            arbol.TransversaPreO(raiz);
 
             Console.Read();
         }
