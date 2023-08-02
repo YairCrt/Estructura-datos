@@ -30,6 +30,27 @@ namespace ArbolBinario
 
             arbol.Transversa(raiz);
 
+            //Console.WriteLine("El valor menor es {0}", arbol.EncuentraMinimo(raiz));
+            //Console.WriteLine("El valor mayor es {0}", arbol.EncuentraMaximo(raiz));
+
+            //arbol.TransversaOrdenada(raiz);
+
+            //Console.WriteLine();
+
+            //Nodo temp = arbol.EncuentraNodoMin(raiz);
+            //Console.WriteLine("Referencia al nodo menor: {0}", temp.Dato);
+            //temp = arbol.EncuentraNodoMax(raiz);
+            //Console.WriteLine("Referencia al nodo mayor: {0}", temp.Dato);
+
+            Console.WriteLine("-----------");
+
+            Nodo padre = arbol.BuscarPadre(11, raiz);
+            Console.WriteLine(padre.Dato);
+
+            arbol.Borrar(raiz, 4);
+
+            arbol.Transversa(raiz);
+
 
             Console.ReadLine();
         }
