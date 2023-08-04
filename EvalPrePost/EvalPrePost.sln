@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvalPrePost", "EvalPrePost\EvalPrePost.csproj", "{FFAF73DC-9B79-43BC-817B-95C43D57857B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFAF73DC-9B79-43BC-817B-95C43D57857B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAF73DC-9B79-43BC-817B-95C43D57857B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAF73DC-9B79-43BC-817B-95C43D57857B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAF73DC-9B79-43BC-817B-95C43D57857B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A346A147-200E-48EC-904D-8A0F7A278C9F}
+	EndGlobalSection
+EndGlobal

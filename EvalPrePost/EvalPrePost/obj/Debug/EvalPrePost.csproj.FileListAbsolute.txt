@@ -1,0 +1,8 @@
+C:\Users\Coryb\Desktop\EstructuraDatos\EvalPrePost\EvalPrePost\bin\Debug\EvalPrePost.exe.config
+C:\Users\Coryb\Desktop\EstructuraDatos\EvalPrePost\EvalPrePost\bin\Debug\EvalPrePost.exe
+C:\Users\Coryb\Desktop\EstructuraDatos\EvalPrePost\EvalPrePost\bin\Debug\EvalPrePost.pdb
+C:\Users\Coryb\Desktop\EstructuraDatos\EvalPrePost\EvalPrePost\obj\Debug\EvalPrePost.csproj.AssemblyReference.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\EvalPrePost\EvalPrePost\obj\Debug\EvalPrePost.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\EvalPrePost\EvalPrePost\obj\Debug\EvalPrePost.csproj.CoreCompileInputs.cache
+C:\Users\Coryb\Desktop\EstructuraDatos\EvalPrePost\EvalPrePost\obj\Debug\EvalPrePost.exe
+C:\Users\Coryb\Desktop\EstructuraDatos\EvalPrePost\EvalPrePost\obj\Debug\EvalPrePost.pdb
